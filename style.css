@@ -1,0 +1,152 @@
+#topo {
+    background-color: #FFD300;
+    padding: 20px;
+    height: 20px;
+    width: 1495px;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+div {
+    margin: 0px;
+}
+
+
+#mark {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 15px;
+    margin-top: -68px;
+    margin-left: 68px;
+}
+
+#company {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 15px;
+    margin-top: -50px;
+    margin-left: 1000px;
+}
+
+#about {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 15px;
+    margin-top: -39px;
+    margin-left: 1120px;
+}
+
+#us {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 15px;
+    margin-top: -40px;
+    margin-left: 1180px;
+}
+
+#review {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 15px;
+    margin-top: -40px;
+    margin-left: 1230px;
+}
+
+#contact {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 15px;
+    margin-top: -40px;
+    margin-left: 1330px;
+}
+
+#botao {
+    background-color: white;
+    font-family: "Merriweather Sans", sans-serif;
+    border-radius: 0%;
+    border: 0cm;
+    font-size: 15px;
+    color: black;
+    margin-top: -2px;
+    height: 30px;
+    padding: 5px;
+    width: 100px;
+    margin-left: 1400px;
+   
+}
+
+html {
+    background-color: black;
+}
+
+#placa {
+    width: 400px;
+    height: 500px;
+    margin: 80px;
+    background-color: white;
+}
+
+#placa2 {
+    width: 400px;
+    height: 300px;
+    margin-top: -380px;
+    margin-left: 80px;
+    background-color: #FFD300;
+}
+
+#text1 {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 20px;
+    margin-top: -480px;
+    margin-left: 90px;
+}
+
+#linha {
+    width: 100px;
+    height: 2px;
+    margin-top: -70px;
+    margin-left: 90px;
+    background-color: #FFD300;
+}
+
+#text2 {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 10px;
+    margin-top: -0px;
+    margin-left: 90px;
+}
+
+#marketing {
+    font-family: "Merriweather Sans", sans-serif;
+    color: #FFD300;
+    font-size: 40px;
+    margin-top: -160px;
+    margin-left: 550px;
+}
+
+#new {
+    font-family: "Merriweather Sans", sans-serif;
+    color: white;
+    font-size: 35px;
+    margin-top: -40px;
+    margin-left: 550px;
+}
+
+#text3 {
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+    font-size: 15px;
+    margin-top: -0px;
+    margin-left: 550px;
+}
+
+
+#text4 {
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+    font-size: 25px;
+    margin-top: -0px;
+    margin-left: 550px;
+}
+
+#bloco {
+    width: 100px;
+    height: 2px;
+    margin-top: -0px;
+    margin-left: 550px;
+    background-color: #FFD300;
+}
